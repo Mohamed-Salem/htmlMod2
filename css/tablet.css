@@ -1,0 +1,60 @@
+section{
+	display: inline-block;
+	padding: 10px;
+}
+
+div { position: relative; }
+
+section.chicken {
+		width: 45%;
+		float: left;
+		margin: 1%;
+		border: 1px solid black;
+		margin-bottom:20px;
+		font-style: inherit;
+		background-color: #c0c0c0;
+		border-style: inset;
+		
+}
+section.beef {
+		width: 45%;
+		border: 1px solid black;
+		float: right;
+		margin-bottom:20px;
+		margin: 1%;
+		font-style: inherit;
+		background-color: #00ffff;
+		border-style: inset;
+}
+section.sushi {
+		width: 95.5%;
+		border: 1px solid black;
+		margin-bottom:20px;
+		font-style: inherit;
+		margin: 1%;
+		margin-right: 5%;
+		background-color: #ff80c0;
+		border-style: inset;
+}
+h1 {
+		height: 30%;
+		width: 25%;
+		margin-top:0%;
+		margin-right:0%;
+		padding-right: 5px;
+		border: 1px solid black;
+		background-color: yellow;
+		text-align: right;
+		position: relative;
+		float: right;
+		top: 0;
+    	right: 0;
+}
+
+header {
+		text-align: center;
+		font-family: "Times New Roman", Times, serif;
+		font-style: oblique;
+		font-size: 60px;
+		
+}
