@@ -37,19 +37,22 @@ section.sushi {
 }
 
 h1 {
+		position: relative;
+		top: -1px;
+		right: -1px;
 		height: 30%;
 		width: 25%;
 		padding-right: 5px;
 		border: 1px solid black;
 		background-color: yellow;
 		text-align: right;
-		position: relative;
 		float: right;
 		top: 0;
     	right: 0;
 		
 }
 header {
+		
 		text-align: center;
 		font-family: "Times New Roman", Times, serif;
 		font-style: oblique;
